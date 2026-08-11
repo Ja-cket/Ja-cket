@@ -12,8 +12,8 @@
 
 ### About Me
 <i>
-  Ukrainian larp>love linux and tech
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="icon" height="200" width="200" align="absmiddle">
+  Ukrainian larp>love linux and tech 
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="icon" height="200" width="200" align="absmiddle" />
 </i>
 
 ---
