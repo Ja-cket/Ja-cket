@@ -12,7 +12,7 @@
 
 ### About Me
 <i>
-  Ukrainian larp>love linux and tech<img src="[[https://ru.wikipedia.org/wiki/Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1El38iW3yk3YIvYakO7ZJMcPc_4l_OTLyQBDflIpzJg&s=10)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)" alt="icon" style="height: 1em; width: auto; vertical-align: middle;"> 
+  Ukrainian larp>love linux and tech<img src="[[https://ru.wikipedia.org/wiki/Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1El38iW3yk3YIvYakO7ZJMcPc_4l_OTLyQBDflIpzJg&s=10)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/120px-Tux.svg.png?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)" alt="icon" style="height: 1; width: auto; vertical-align: middle;"> 
 </i>
 
 ---
