@@ -12,7 +12,7 @@
 
 ### About Me
 <i>
-  Ukrainian larp>love linux and tech<img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="icon" style="height: 1; width: auto; vertical-align: middle;"> 
+  Ukrainian larp>love linux and tech<img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" alt="icon" style="height: 1em; width: auto; vertical-align: middle;"> 
 </i>
 
 ---
