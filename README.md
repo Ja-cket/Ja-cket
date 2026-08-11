@@ -1,11 +1,11 @@
-<h1 align="center">Привет, я [Твоё Имя] 👋</h1>
+<h1 align="center">Привет, я [Тузик] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Люблю+чистый+код;Открыт+для+сотрудничества" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твой-ник&label=Просмотры+профиля&color=blueviolet&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ja-cket&label=Просмотры+профиля&color=blueviolet&style=flat" alt="visitor badge" />
 </p>
 
 ---
@@ -38,12 +38,12 @@
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-ник&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ja-cket&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja-cket&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=твой-ник&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ja-cket&theme=radical" alt="streak stats"/>
 </p>
 
 ---
