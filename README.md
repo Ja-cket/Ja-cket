@@ -45,14 +45,6 @@
 
 ---
 
-### 🏆 Projects
-
-- 🚀 **[Project Name 1](link)** — a short description of what the project does.
-- 💡 **[Project Name 2](link)** — a short description of what the project does.
-- 🎯 **[Project Name 3](link)** — a short description of what the project does.
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
