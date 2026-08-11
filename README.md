@@ -10,14 +10,10 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[technology / language]**
-- 👯 Looking to collaborate on: **[project type / open source]**
-- 💬 Ask me about: **[your expertise]**
-- 📫 How to reach me: **[email / telegram]**
-- ⚡ Fun fact: **[something interesting about you]**
+### About Me
+<i>
+  Ukrainian larp>love linux and tech<img src ="[https://ru.wikipedia.org/wiki/Linux](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1El38iW3yk3YIvYakO7ZJMcPc_4l_OTLyQBDflIpzJg&s=10)" alt="icon" style="height: 1em; width: auto; vertical-align: middle;"> 
+</i>
 
 ---
 
